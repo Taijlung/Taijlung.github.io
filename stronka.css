@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    
+}
+
+#lewy{
+    float: left;
+    text-align: center;
+}
+
